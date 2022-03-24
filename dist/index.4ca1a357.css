@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 50vh;
+  background-color: blue;
+}
+/*# sourceMappingURL=index.4ca1a357.css.map */

@@ -1,0 +1,1 @@
+{"mappings":"AAEA;EACE;EACA;EACA;;;AAEF;EACE;EACA;EACA,kBAVS","sources":["sass/main.scss"],"sourcesContent":["$bg-color: blue;\n\nbody{\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n.container{\n  width: 100%;\n  height: 50vh;\n  background-color: $bg-color;\n}\n"],"names":[],"version":3,"file":"index.4ca1a357.css.map","sourceRoot":"/__parcel_source_root/"}
